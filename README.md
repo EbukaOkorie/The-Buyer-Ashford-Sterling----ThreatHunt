@@ -10,6 +10,9 @@
 
 **Tools Used:** Microsoft Defender for Endpoint (MDE), Microsoft Sentinel (Log Analytics), KQL
 
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/603670d2-67ba-447e-8652-3855a291b7dc" />
+
+
 **Scenario Context:** This investigation follows on from my earlier work on "The Broker" case. The same threat actor came back to the environment using access they had already set up during that first intrusion. This time they deployed Akira ransomware across the network. The challenge here was harder than The Broker because I had to work backwards from the impact, track activity across multiple hosts, and connect the dots with infrastructure I had already flagged in the first investigation.
 
 ---
